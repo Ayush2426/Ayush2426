@@ -55,20 +55,17 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2426&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2426&theme=radical" alt="ayush2426" />
-</p>
-
 ---
 
 <h3 align="center">🚀 Contribution Activity</h3>
+
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2426&" alt="ayush2426" /></p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush2426&theme=react-dark&hide_border=true" alt="activity graph" />
 </p>
 
 ---
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2426&" alt="ayush2426" /></p>
 
 <p align="center">
   <i>“Building isn't just about shipping. It's about sharing, evolving, and igniting ideas.” – Ayush</i>
