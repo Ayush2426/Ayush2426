@@ -68,7 +68,7 @@
 </p>
 
 ---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2426&" alt="ayush2426" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2426&" alt="ayush2426" /></p>
 
 <p align="center">
   <i>“Building isn't just about shipping. It's about sharing, evolving, and igniting ideas.” – Ayush</i>
