@@ -28,9 +28,35 @@
 - ⚡ Fun fact **Once built a chatbot that started roasting me during testing (true story, still proud) → [Check it here](https://endermenchatbotaiayushhh.vercel.app/)**
 
 ---
-<h2 align="center">:🏆 Achievements</h2>
+### 🏆 Achievements
 
-<p align="center"> <img src="https://media.giphy.com/media/26FPGtK9nqgWfP6Lm/giphy.gif" width="120" alt="Trophy" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F730&center=true&vCenter=true&width=600&lines=🏅+Winner+of+SIH+HackHorizon+2K25;🏁+Organized+by+Google+Developers+Group;🧠+AI-Themed+Innovation+Challenge;🚀+Built+an+AgenticAI+powered+solution!" alt="Achievement Typing SVG" /> </p> <p align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="160" alt="celebrate"/> <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="140" alt="clap"/> <img src="https://media.giphy.com/media/xT0Gqz6xMOlGZwN8uk/giphy.gif" width="160" alt="stars"/> </p> <p align="center"> <b>Built a futuristic AI-powered solution that won hearts and the 🏆 at HackHorizon 2K25, hosted by <a href="https://gdg.community.dev/" target="_blank">Google Developers Group</a>!</b><br> <i>Theme: Building intelligent systems with real-time Agentic AI and multimodal capabilities</i> </p>
+<p align="center">
+  <img src="https://res.cloudinary.com/dd2bqjaxn/image/upload/v1753202679/Screenshot_2025-07-22_221151_ulp2jf.png" alt="HackHorizon 2K25 Winner" width="450"/>
+</p>
+
+<p align="center">
+  <strong>🥇 Winner – SIH HackHorizon 2K25 Hackathon</strong><br/>
+  <em>Organized by Google Developers Group | Team Runtime Terrors (HCK042)</em><br/>
+  🧠 <b>Project:</b> <code>RuralCare – Smart & Connected Rural Healthcare Platform</code>
+</p>
+
+#### 🔍 Project Highlights:
+- 📌 **Problem Statement #13 – Public Safety & Welfare**  
+- 🌐 AI-powered platform focused on **rural healthcare access, continuity, and quality**
+- 🧠 **Depression Prediction** using Google Gemini + ML questionnaire
+- 📄 **OCR-Based Report Generation** with Terraform + Cloudinary + Gemini
+- 🔐 Role-based Authentication (User | Doctor | Admin) with Protected Routing
+- 🌍 **Health blogs in regional languages** using Google Translate API
+- 📦 Cloudinary-based **file uploads** to reduce DB load
+- 🔬 Analyzed depression dataset from **Kaggle**
+- ⚙️ Two microservices with a React frontend
+- 📡 Simulated IoT health device interaction using **Blynk + Ngrok**
+
+<p align="center">
+  <i>“Bridging the healthcare divide with tech-powered empathy.”</i>
+</p>
+
+---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
