@@ -28,6 +28,9 @@
 - ⚡ Fun fact **Once built a chatbot that started roasting me during testing (true story, still proud) → [Check it here](https://endermenchatbotaiayushhh.vercel.app/)**
 
 ---
+<h2 align="center">:🏆 Achievements</h2>
+
+<p align="center"> <img src="https://media.giphy.com/media/26FPGtK9nqgWfP6Lm/giphy.gif" width="120" alt="Trophy" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F730&center=true&vCenter=true&width=600&lines=🏅+Winner+of+SIH+HackHorizon+2K25;🏁+Organized+by+Google+Developers+Group;🧠+AI-Themed+Innovation+Challenge;🚀+Built+an+AgenticAI+powered+solution!" alt="Achievement Typing SVG" /> </p> <p align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="160" alt="celebrate"/> <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="140" alt="clap"/> <img src="https://media.giphy.com/media/xT0Gqz6xMOlGZwN8uk/giphy.gif" width="160" alt="stars"/> </p> <p align="center"> <b>Built a futuristic AI-powered solution that won hearts and the 🏆 at HackHorizon 2K25, hosted by <a href="https://gdg.community.dev/" target="_blank">Google Developers Group</a>!</b><br> <i>Theme: Building intelligent systems with real-time Agentic AI and multimodal capabilities</i> </p>
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
